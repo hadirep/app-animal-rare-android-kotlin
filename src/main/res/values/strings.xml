@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rare Animal</string>
+    <string name="animal_name">nama: </string>
+    <string name="latin_name">nama latin:</string>
+    <string name="animal_famili">famili: </string>
+    <string name="animal_detail">detail:</string>
+    <string name="about">About</string>
+    <string name="email">Hadiesarahma@gmail.com</string>
+    <string name="name">Hadi Rahmah Esa Putra</string>
+</resources>
